@@ -1,5 +1,6 @@
 var playlist = {
-
+  'Eminem' : 'Till I collapse',
+  'Jay-Z' : 'Dirt off my shoulder'
 }
 
 function updatePlaylist (playlist, artistName, songTitle) {
