@@ -8,7 +8,7 @@ function updatePlaylist (playlist, artistName, songTitle) {
   return playlist;
 }
 
-function removeFromPlaylist (playlist, artistName) {ű
+function removeFromPlaylist (playlist, artistName) {
   delete artistName;
   return playlist;
 }
